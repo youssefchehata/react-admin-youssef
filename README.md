@@ -1,13 +1,16 @@
 # react-admin-youssef
+## 📸 Captures d'écran
 
-```
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
+![Dashboard](images/dashboard.png) ✅
+![Login](images/login.png) ✅
+![Posts List](images/posts-list.png) ✅
+![Post Create](images/post-create.png) ✅
+![Post Edit](images/post-edit.png) ✅
+![Users List](images/users-list.png) ✅
+![Post Detail](images/post-detail.png) ✅
+![Post Filter](images/post-filter.png) ✅
+📸 Structure des captures d'écran maintenant :
+
 
 # React Admin Dashboard
 
@@ -53,8 +56,8 @@ src/
 
 1. **Cloner le repository**
    ```bash
-   git clone https://github.com/votre-username/react-admin-dashboard.git
-   cd react-admin-dashboard
+   git clone https://github.com/youssefchehata/react-admin-youssef
+   cd react-admin-youssef
    ```
 
 2. **Installer les dépendances**
@@ -69,7 +72,7 @@ src/
 
 4. **Accéder à l'application**
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## 🔐 Authentification
@@ -138,8 +141,8 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 👨‍💻 Auteur
 
 **Youssef Chehata**
-- GitHub: [@votre-username](https://github.com/votre-username)
-- Email: votre.email@example.com
+- GitHub: [@youssef chehata] https://github.com/youssefchehata 
+
 
 ## 🙏 Remerciements
 
